@@ -1,0 +1,30 @@
+CASA - DISEÑO BASE
+
+Dimensiones del lote: 12 m x 10 m
+
+Distribución propuesta:
+
+┌─────────────────────────────────────────────────────────────┐
+│                           JARDÍN                            │
+│      🌳 Árbol      🌸 Flores      🌳 Árbol      🌼 Flores      │
+│                    (12 m x 3 m aprox.)                     │
+├───────────────────────────────┬─────────────────────────────┤
+│             SALA              │         HABITACIÓN          │
+│  Sofá + mesa de centro + TV   │  Cama matrimonial + burós   │
+│           (6 m x 4 m)         │          (6 m x 4 m)        │
+├───────────────────────────────┴───────────────┬─────────────┤
+│                    COCINA                     │    PASO     │
+│ Estufa+mesón | lavaplatos | platillera+platos │  (4 m x 3)  │
+│                  (8 m x 3 m)                  │             │
+└───────────────────────────────────────────────┴─────────────┘
+
+Resumen de espacios:
+- Sala amplia al frente para recibir visitas, equipada con muebles principales.
+- Habitación principal al lado de la sala con cama y espacio de descanso.
+- Cocina en la zona posterior con circulación lateral y equipamiento completo.
+- Jardín frontal con árboles y flores para ventilación, sombra y recreación.
+
+
+Modificación:
+- Se agregó área de comedor integrada junto a la sala.
+- Se recomendó una ventana extra en la habitación para mayor iluminación.
